@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auth",
+				"authState\tproperty"
+			],
+			[
+				"Ob",
+				"Observable\talias"
+			],
+			[
+				"a",
+				"authState\tproperty"
+			],
+			[
+				"us",
+				"userDataDoc\tproperty"
+			],
+			[
+				"st",
+				"studentSchema"
+			],
+			[
+				"s",
+				"Schema"
+			],
+			[
+				"user",
+				"user_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 249.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install p",
+				"Install Package Control"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shumba/Desktop/cea/src/environments/environment.prod.ts",
+		"/Users/shumba/Desktop/cea/src/environments/environment.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/cultured/src/app/app.module.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/cultured/src/environments/environment.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/cultured/src/environments/environment.prod.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/protocol_/c_frontend/cultured/src/app/login/login.component.html",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/protocol_/c_frontend/cultured/src/app/app.module.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/protocol_/c_frontend/cultured/src/app/app.component.html",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/protocol_/c_frontend/cultured/src/environments/environment.prod.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/protocol_/c_frontend/cultured/src/environments/environment.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/comp-org-asn1/final.asm",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/comp-org-asn1/converter.asm",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/comp-org-asn1/add.asm",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/comp-org-asn1/to-fix.asm",
+		"/Users/shumba/Downloads/mips1.asm",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/comp-org-asn1/project1.asm",
+		"/Users/shumba/Desktop/test.asm",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/backend/server.js",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/backend/app/user.model.js",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/frontend/src/app/app.module.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/frontend/src/app/app.component.html",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/frontend/src/environments/environment.prod.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/frontend/src/app/login/login.component.html",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/frontend/src/app/login/login.component.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/progress-dashboard/frontend/src/environments/environment.ts",
+		"/Users/shumba/Library/Application Support/Steam/steamapps/common/Rocksmith2014/Rocksmith.ini",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/new/portal-frontend/src/environments/environment.prod.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/new/portal-frontend/src/environments/environment.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/portal-frontend/src/environments/environment.prod.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/portal-frontend/src/environments/environment.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/portal-frontend/src/app/app.component.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/portal-frontend/src/app/shared/auth.service.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/portal-frontend/src/app/components/login/login.component.html",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/portal-frontend/portal-frontend/src/app/app.module.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/ProgressDashboard/v1/Frontend/src/app/milestone.model.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/ProgressDashboard/v1/Frontend/src/app/user.model.ts",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/ProgressDashboard/v1/Backend/server.js",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/ProgressDashboard/v1/api/server.js",
+		"/Users/shumba/Library/Mobile Documents/com~apple~CloudDocs/Developer/ProgressDashboard/v1/Backend/oldserver.js",
+		"/Users/shumba/Desktop/example.s"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "program.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
